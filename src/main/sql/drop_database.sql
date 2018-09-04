@@ -1,0 +1,1 @@
+DROP DATABASE `spring_hibernate_sample`;

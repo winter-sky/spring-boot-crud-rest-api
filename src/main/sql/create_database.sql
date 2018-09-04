@@ -1,0 +1,1 @@
+CREATE SCHEMA IF NOT EXISTS `spring_hibernate_sample` DEFAULT CHARACTER SET utf8;
